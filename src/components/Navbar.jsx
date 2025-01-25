@@ -11,12 +11,15 @@ const Navbar = () => {
           <a className="hover:font-bold" href="/">
             <li>Home</li>
           </a>
-          <a className="hover:font-bold" href="/">
-            <li>About </li>
+          <a className="hover:font-bold" href="https://github.com/kumail-ahmad/iPlanner">
+            <li>Repo </li>
           </a>
 
           <li>
-            <a className="hover:font-bold transition-all" href="/">
+            <a
+              className="hover:font-bold transition-all"
+              href="https://my-link-ruddy.vercel.app/myLink"
+            >
               Contact
             </a>
           </li>
