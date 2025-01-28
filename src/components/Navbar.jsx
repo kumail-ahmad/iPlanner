@@ -10,7 +10,7 @@ const Navbar = () => {
           <a className="hover:font-bold" href="/">
             <li>Home</li>
           </a>
-          <a className="hover:font-bold" href="https://github.com/kumail-ahmad/iPlanner">
+          <a className=" hover:font-bold" href="https://github.com/kumail-ahmad/iPlanner">
             <li>Repo </li>
           </a>
 
