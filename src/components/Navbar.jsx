@@ -11,7 +11,7 @@ const Navbar = () => {
             <li>Home</li>
           </a>
           <a className=" hover:font-bold" href="https://github.com/kumail-ahmad/iPlanner">
-            <li>Repo </li>
+            <li> Repo </li>
           </a>
 
           <li>
