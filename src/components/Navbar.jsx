@@ -16,7 +16,7 @@ const Navbar = () => {
 
           <li>
             <a
-              className=" hover:font-bold transition-all"
+              className=" hover:font-bold  transition-all"
               href="https://my-link-ruddy.vercel.app/myLink"
             >
               Contact
