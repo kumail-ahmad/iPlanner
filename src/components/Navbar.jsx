@@ -7,7 +7,7 @@ const Navbar = () => {
           <div className=" logo">
             <span className="font-bold text-2xl mx-9">iPlan</span>
           </div>
-          <a className="hover:font-bold" href="/">
+          <a className=" hover:font-bold" href="/">
             <li>Home</li>
           </a>
           <a className=" hover:font-bold" href="https://github.com/kumail-ahmad/iPlanner">
