@@ -1,4 +1,4 @@
-import React from "react";
+
 import { FaFacebookF } from "react-icons/fa";
 import { FaLinkedinIn } from "react-icons/fa6";
 import { IoLogoTwitter } from "react-icons/io5";
@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer className=" bg-gray-700  text-white py-6">
       <div className="container mx-auto flex flex-col items-center">
-        <div className=" socials mb-6">
+        <div className="socials mb-6">
           <ul className="flex gap-6 justify-center items-center">
             <a href="/" className="text-white hover:text-blue-500">
               <li>
