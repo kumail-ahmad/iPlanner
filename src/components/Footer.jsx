@@ -10,12 +10,12 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col items-center">
         <div className=" socials mb-6">
           <ul className="flex gap-6 justify-center items-center">
-            <a href="/" className="text-white hover:text-blue-500">
+            <a href="/" className="text-white  hover:text-blue-500">
               <li>
                 <FaFacebookF size={20} />
               </li>
             </a>
-            <a href="/" className="text-white hover:text-blue-400">
+            <a href="/" className="text-white  hover:text-blue-400">
               <li>
                 <FaLinkedinIn size={20} />
               </li>
