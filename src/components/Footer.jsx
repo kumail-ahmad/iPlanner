@@ -20,12 +20,12 @@ const Footer = () => {
                 <FaLinkedinIn size={20} />
               </li>
             </a>
-            <a href="/" className="text-white hover:text-blue-300">
+            <a href="/" className=" text-white hover:text-blue-300">
               <li>
                 <IoLogoTwitter size={20} />
               </li>
             </a>
-            <a href="/" className="text-white hover:text-pink-400">
+            <a href="/" className=" text-white hover:text-pink-400">
               <li>
                 <FaInstagram size={20} />
               </li>
